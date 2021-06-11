@@ -14,3 +14,6 @@ Each lesson corresponds to a branch. The master branch just has the basic config
 ```
 
 To execute the code in node, use `npm run build-node ; npm run start:node`. To execute the code in the browser, use `npm run start`.
+
+## Branch Details
+Using a function to demonstrate typed javascript.
