@@ -1,1 +1,3 @@
-console.log('Hello from TypeScript')
+import _ from 'lodash';
+
+_.uniq([1, 1, 2])
